@@ -2,37 +2,50 @@
 																					Memory Management
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+**Pointers**
+
 -Explaination of different sections: Stack, Heap- jvm heap, perm/metaspace. Ref: http://www.journaldev.com/2856/java-jvm-memory-model-memory-management-in-java
 -Altering memory for different sections using JVM args. Ref: http://www.journaldev.com/2856/java-jvm-memory-model-memory-management-in-java
--Object creation steps - reference resolution, explain TLA. Ref: https://docs.oracle.com/cd/E13150_01/jrockit_jvm/jrockit/geninfo/diagnos/garbage_collect.html
+-Object creation steps - reference resolution. Ref: https://docs.oracle.com/cd/E13150_01/jrockit_jvm/jrockit/geninfo/diagnos/garbage_collect.html
 -What is garbage collection? Ref: http://www.cubrid.org/blog/understanding-java-garbage-collection
 -How garbage collection happens - youngGen, servivor space, oldGen. Ref: http://www.cubrid.org/blog/understanding-java-garbage-collection
--Basic overview of different algorithms for GC. Ref: http://www.cubrid.org/blog/understanding-java-garbage-collection
 
+**Post Read**
+
+http://www.journaldev.com/2856/java-jvm-memory-model-memory-management-in-java
+https://docs.oracle.com/cd/E13150_01/jrockit_jvm/jrockit/geninfo/diagnos/garbage_collect.html
+http://www.cubrid.org/blog/understanding-java-garbage-collection
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 																					Functional Programming & Lambdas
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
--Basic idea of what is functional programming.
+**Pointers**
+
 -Functions as an object in Java 8. Discuss advantages of the same. Ref: https://dzone.com/articles/functional-programming-in-java-8-part-1-functions-as-objects, 
 																		https://dzone.com/articles/functional-programming-java-8
-
 -What is lambda expression? What are the advantages of using lambdas? Explain with basic examples. Ref: https://dzone.com/articles/java-lambda-expressions-basics
-
 -Functional interfaces in java - Function and BiFunction, Predicate and BiPredicate, Consumer and BiConsumer, Supplier. Ref: https://dzone.com/articles/java-lambda-expressions-basics
 																															 http://www.journaldev.com/2774/java-8-stream
-
 -Binding of function interfaces with lambdas. Ref: https://dzone.com/articles/java-lambda-expressions-basics
-
 -Method References Ref: https://docs.oracle.com/javase/tutorial/java/javaOO/methodreferences.html
+
+**Post Read**
+
+https://dzone.com/articles/functional-programming-in-java-8-part-1-functions-as-objects
+https://dzone.com/articles/functional-programming-java-8
+https://dzone.com/articles/java-lambda-expressions-basics
+http://www.journaldev.com/2774/java-8-stream
+https://docs.oracle.com/javase/tutorial/java/javaOO/methodreferences.html
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 																					Streams
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+**Pointers**
+
 -How to create stream? Ref: http://www.journaldev.com/2774/java-8-stream
--Sequential. Ref: http://www.journaldev.com/2774/java-8-stream
+-Sequential streams. Ref: http://www.journaldev.com/2774/java-8-stream
 -Stream advantages. Ref: http://www.journaldev.com/2774/java-8-stream
 -Lazy Evaluation <Ref:Due>
 -Use of predicates in streams. Ref: http://www.journaldev.com/2774/java-8-stream
@@ -43,3 +56,8 @@
 -FlatMap. Ref: http://winterbe.com/posts/2014/07/31/java8-stream-tutorial-examples/
 -Reduce. Ref: http://winterbe.com/posts/2014/07/31/java8-stream-tutorial-examples/
 -Parallel streams and its advantages/disadvantages. Ref: http://winterbe.com/posts/2014/07/31/java8-stream-tutorial-examples/
+
+**Post Read**
+http://www.journaldev.com/2774/java-8-stream
+http://winterbe.com/posts/2014/07/31/java8-stream-tutorial-examples/
+
