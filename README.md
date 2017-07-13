@@ -1,4 +1,4 @@
-﻿# java-level-1
+﻿# Java Level 1
  
 Day 1:-
 ------
