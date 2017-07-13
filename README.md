@@ -8,6 +8,7 @@ Explain java packages, data types(Enums) using a simple program(Sumanshu/Piyush)
 Memory Management in Java. Explain about Object creation process, Stack, Heaps etc. and Java Garbage Collection(Sanu/Vishal/Sudarshan). 1 hour 
 Exception handling in Java, including why should we handle exceptions in Java.(Sanu/Vishal/Sudarshan) 30 minutes
 ----------------------------------------------------------------------------------
+
 Day 2:-
 
 Basics of Threads in Java and synchronization(if time permits).(Lakshya/Kartik) 30 minutes
