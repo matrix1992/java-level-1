@@ -3,43 +3,43 @@
 Day 1:-
 ------
 
-Introduction to Java, a brief history of java, comparison with C++, scenarios where java is used, JDK, JRE & JVM definitions(Sumanshu). 30 mins
+Introduction to Java, a brief history of java, comparison with C++, scenarios where java is used, JDK, JRE & JVM definitions. 30 mins
 
-OOPS concepts in java(Abstraction, Encapsulation, Inheritence & Polymorphism). A basic class & interfaces to explain these concepts and difference with C++(Piyush/Apporv). 1.5 hour
+OOPS concepts in java(Abstraction, Encapsulation, Inheritence & Polymorphism). A basic class & interfaces to explain these concepts and difference with C++. 1.5 hour
 
-Explain java packages, data types(Enums) using a simple program(Sumanshu/Piyush). 30 minutes
+Explain java packages, data types(Enums) using a simple program. 30 minutes
 
-Memory Management in Java. Explain about Object creation process, Stack, Heaps etc. and Java Garbage Collection(Sanu/Vishal/Sudarshan). 1 hour 
+Lamdas, streams and functional programming concepts in java. 1.5 hours
 
-Exception handling in Java, including why should we handle exceptions in Java.(Sanu/Vishal/Sudarshan) 30 minutes
+Build and Dependency Management in java using Maven. 30 minutes
 
 ----------------------------------------------------------------------------------
 
 Day 2:-
 -----
 
-Basics of Threads in Java and synchronization(if time permits).(Lakshya/Kartik) 30 minutes
+Basics of Threads in Java and synchronization(if time permits). 30 minutes
 
-Java Generics introduction and difference with C++ Template coding. Introduction to the Collections framework(Piyush/Apporv). 1 hour
+Java Generics introduction and difference with C++ Template coding. Introduction to the Collections framework. 1 hour
 
-Java Annotations(if time permits)(Piyush/Apporv) 30  minutes
+Java Annotations(if time permits) 30  minutes
 
-Lamdas, streams and functional programming concepts in java.(Sanu/Vishal/Sudarshan) 1.5 hours
+Memory Management in Java. Explain about Object creation process, Stack, Heaps etc. and Java Garbage Collection. 1 hour 
 
-Input/Output and Serialization concepts.(Lakshya/Kartik) - Reading
+Exception handling in Java, including why should we handle exceptions in Java. 30 minutes
 
-Build and Dependency Management in java using Maven.(Lakshya/Kartik) 30 minutes
+Input/Output and Serialization concepts. - Reading
 
 ----------------------------------------------------------------------------------
 Day 3:
 -----
 
-Basics of Web Application, Client and Server.(Prerak)
+Basics of Web Application, Client and Server.
 
-Basic of Web application container setup using Tomcat.(Prerak)
+Basic of Web application container setup using Tomcat.
 
-Servlets in Java & their lifecycle, request forwarding and request redirection.(Prerak)
+Servlets in Java & their lifecycle, request forwarding and request redirection.
 
-JSPs and Filters, including their usages.(Raghavendra)
+JSPs and Filters, including their usages.
 
-Session Management & Cookies.(Raghavendra)
+Session Management & Cookies.
