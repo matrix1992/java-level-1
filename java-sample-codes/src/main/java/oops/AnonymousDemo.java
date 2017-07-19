@@ -18,9 +18,12 @@ public class AnonymousDemo {
                 return "Bark";
             }
 
+			@Override
+			public String getSize() {
+				return "Small";
+			}
+
         });
-        
-        ad.makeAnimalSound(() -> "Roar");
     }
 
 }
