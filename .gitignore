@@ -1,4 +1,9 @@
-*.class
-*.classpath
-*.project
-*.prefs
+.gitignore
+target
+.settings
+.classpath
+
+# Eclipse
+.classpath
+.project
+.settings/
