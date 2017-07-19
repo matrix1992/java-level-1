@@ -1,4 +1,4 @@
-package com.tower.java.examples.exceptions;
+package exceptions;
 
 public class CustomExceptionExample {
 

@@ -1,11 +1,13 @@
-package com.tower.java.examples.threads;
+package threads;
 
 public class CustomThreadExample {
 	
 	private void executeThreads() {
 		new CustomThread("first").start(); // start first thread
 		new CustomThread("second").start(); // start second thread
+		
 
+		// new CustomThread("third").run(); // what will happen ??
 	}
 	
 	public static void main(String[] args) {

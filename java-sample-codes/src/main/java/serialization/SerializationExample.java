@@ -1,4 +1,4 @@
-package com.tower.java.examples.serialization;
+package serialization;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;

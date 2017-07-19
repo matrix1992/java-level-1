@@ -1,4 +1,4 @@
-package com.tower.java.examples.generics;
+package generics;
 
 import java.util.HashMap;
 import java.util.Map;

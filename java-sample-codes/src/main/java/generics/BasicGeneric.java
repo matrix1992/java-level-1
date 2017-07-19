@@ -1,4 +1,4 @@
-package com.tower.java.examples.generics;
+package generics;
 
 import java.util.ArrayList;
 import java.util.Iterator;
