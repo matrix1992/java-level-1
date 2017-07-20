@@ -1,0 +1,10 @@
+Requirement Summary:- Need to create an online library management system.
+
+Details:-
+1. Should support queries like getAllBooks, getBookByName, getBooksByAuthor etc.
+2. Should have feature for a user to register/deregister to library and fetch books for a fixed number of days.
+3. Admin should be able to check the books assigned to each user and search the books assigned to a user.
+4. Admin should have ability to get all assigned books, available books, and books available on specific date.
+5. Admin should be able to add/remove books to library.
+
+The code should be modular segregating the different layers.
