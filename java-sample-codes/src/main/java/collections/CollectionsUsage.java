@@ -1,4 +1,4 @@
-package com.tower.java.examples.collections;
+package collections;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -36,9 +36,9 @@ public class CollectionsUsage {
 	
 	private void printElementList() {
 		// access via for each loop
-		for(String element : elementList) {
-			System.out.println(element);
-		}
+//		for(String element : elementList) {
+//			System.out.println(element);
+//		}
 		
 		
 		// access via iterator

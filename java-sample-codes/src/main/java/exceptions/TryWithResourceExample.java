@@ -1,4 +1,4 @@
-package com.tower.java.examples.exceptions;
+package exceptions;
 
 import java.io.FileInputStream;
 import java.io.IOException;

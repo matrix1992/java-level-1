@@ -1,4 +1,4 @@
-package com.tower.java.examples.threads;
+package threads;
 
 public class ThreadsWithRunnable {
 
@@ -27,8 +27,6 @@ public class ThreadsWithRunnable {
 	private void executeThreads() {
 		new Thread(mFirstRunnable).start(); // start first thread
 		new Thread(mSecondRunnable).start(); // start second thread
-
-		// new Thread(mSecondRunnable).run(); // what will happen ??
 	}
 
 	public static void main(String[] args) {

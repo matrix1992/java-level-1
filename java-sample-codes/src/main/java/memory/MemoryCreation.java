@@ -1,4 +1,4 @@
-package com.tower.java.examples.memory;
+package memory;
 
 public class MemoryCreation {
 

@@ -1,6 +1,4 @@
-package com.tower.java.examples.annotations;
-
-import com.sun.istack.internal.NotNull;
+package annotations;
 
 public class BuiltInAnnotations {
 
@@ -9,25 +7,25 @@ public class BuiltInAnnotations {
 		// not used anymore
 		return 0;
 	}
-	
+
 	@SuppressWarnings("null")
 	public void methodWithWarning() {
 		Object obj = null;
 		obj.toString();
 	}
-	
+
 	private class Child implements IBase {
 		@Override
 		public void someMethod() {
 			// some code
 		}
-		
-		@Override
+
+//		@Override
 		public void somemethod() {
 			// compile error
 		}
 	}
-	
+
 	private interface IBase {
 		void someMethod();
 	}

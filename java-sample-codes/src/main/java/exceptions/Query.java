@@ -1,4 +1,4 @@
-package com.tower.java.examples.exceptions;
+package exceptions;
 
 public class Query {
 
@@ -8,14 +8,14 @@ public class Query {
 	public int first() {
 		try {
 			throw new NullPointerException();
-			return 0;
+//			return 0;
 		} catch (Exception e) {
 			// do something
 			return 1;
 		} finally {
 			return 2;
 		}
-		return 3;
+//		return 3;
 	}
 	
 	public void insertUserAndAddress(String user, String address) {
